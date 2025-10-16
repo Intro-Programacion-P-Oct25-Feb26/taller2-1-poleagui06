@@ -15,6 +15,7 @@ public class Proyecto03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Netbeans, Java y  Python");
     }
     
 }
